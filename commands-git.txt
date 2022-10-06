@@ -1,4 +1,5 @@
 git clone url 
-git add
+git add 
 git commit
-git push
+git push url 
+git pull
