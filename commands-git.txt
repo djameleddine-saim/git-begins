@@ -3,5 +3,3 @@ git add
 git commit
 git push url 
 git pull
-git branch 
-git checkout
